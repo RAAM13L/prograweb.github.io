@@ -1,0 +1,18 @@
+body {
+  font-family: sans-serif;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* centra los elementos */
+  gap: 20px; /* espacio entre ellos */
+}
+
+.Menú {
+  text-align: center;
+  width: 100%;
+  background-color: pink;
+  margin-top: auto;
+}
+
+div {
+  text-align: center;
+} 
