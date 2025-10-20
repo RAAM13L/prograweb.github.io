@@ -14,7 +14,7 @@ p {
   font-size: 1.5rem;
 }
 
-#m1 {
+.m1 {
   position: absolute;
   top: 8%;
   left: 10%;
@@ -25,7 +25,7 @@ p {
   text-align: center;
 }
 
-#m2 {
+.m2 {
   position: absolute;
   top: 40%;
   left: 32%;
@@ -37,7 +37,7 @@ p {
   text-align: center;
 }
 
-#m3 {
+.m3 {
   position: absolute;
   top: 25%;
   left: 5%;
@@ -48,7 +48,7 @@ p {
   text-align: left;
 }
 
-#m4 {
+.m4 {
   position: absolute;
   top: 25%;
   right: 5%;
@@ -59,7 +59,7 @@ p {
   text-align: right;
 }
 
-#m5 {
+.m5 {
   position: absolute;
   bottom: 5%;
   left: 5%;
@@ -70,7 +70,7 @@ p {
   text-align: left;
 }
 
-#m6 {
+.m6 {
   position: absolute;
   bottom: 5%;
   right: 5%;
@@ -84,4 +84,5 @@ p {
 p:hover {
   z-index: 3;
 }
+
 
